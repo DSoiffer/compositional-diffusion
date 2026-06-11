@@ -1,0 +1,19 @@
+conditions:
+  - name: base
+    classes:
+      control: 0.95
+      couch: 0.016666666666
+      coffee_table: 0.016666666666
+      couch+coffee_table: 0.016666666666
+  - name: mostly_couch
+    classes:
+      control: 0.016666666666
+      couch: 0.95
+      coffee_table: 0.016666666666
+      couch+coffee_table: 0.016666666666
+  - name: mostly_coffee_table
+    classes:
+      control: 0.016666666666
+      couch: 0.016666666666
+      coffee_table: 0.95
+      couch+coffee_table: 0.016666666666

@@ -1,0 +1,7 @@
+conditions:
+  - name: base
+    classes:
+      control: 0.25
+      couch: 0.25
+      coffee_table: 0.25
+      couch+coffee_table: 0.25

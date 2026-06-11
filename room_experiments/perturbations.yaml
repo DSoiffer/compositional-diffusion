@@ -1,0 +1,14 @@
+Couch:
+  category: furniture
+  prompt_string: couch
+  include_small: true
+
+Coffee table:
+  category: furniture
+  prompt_string: coffee table
+  include_small: true
+
+Framed painting:
+  category: wall_decor
+  prompt_string: framed painting
+  include_small: true

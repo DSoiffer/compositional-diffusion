@@ -1,0 +1,7 @@
+conditions:
+  - name: mostly_painting
+    classes:
+      control: 0.016666666666
+      couch: 0.016666666666
+      framed_painting: 0.95
+      couch+framed_painting: 0.016666666666

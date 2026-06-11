@@ -1,0 +1,7 @@
+conditions:
+  - name: base
+    classes:
+      control: 0.25
+      couch: 0.25
+      framed_painting: 0.25
+      couch+framed_painting: 0.25

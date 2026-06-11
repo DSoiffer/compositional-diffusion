@@ -1,0 +1,19 @@
+conditions:
+  - name: base
+    classes:
+      control: 0.25
+      couch: 0.25
+      framed_painting: 0.25
+      couch+framed_painting: 0.25
+  - name: mostly_couch
+    classes:
+      control: 0.01
+      couch: 0.49
+      framed_painting: 0.01
+      couch+framed_painting: 0.49
+  - name: mostly_painting
+    classes:
+      control: 0.01
+      couch: 0.01
+      framed_painting: 0.49
+      couch+framed_painting: 0.49

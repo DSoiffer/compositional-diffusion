@@ -1,0 +1,7 @@
+conditions:
+  - name: mostly_couch
+    classes:
+      control: 0.01
+      couch: 0.49
+      coffee_table: 0.01
+      couch+coffee_table: 0.49
