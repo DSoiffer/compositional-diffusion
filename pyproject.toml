@@ -20,7 +20,7 @@ dependencies = [
     "safetensors>=0.7.0",
     "scikit-learn>=1.8.0",
     "scipy>=1.17.1",
-    "sd-embed",
+    "sd_embed",
     "torch>=2.11.0",
     "torchvision>=0.26.0",
     "tqdm>=4.67.3",
@@ -40,4 +40,4 @@ torch = [
 torchvision = [
   { index = "pytorch-cu130", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
 ]
-sd-embed = { git = "https://github.com/xhinker/sd_embed.git", rev = "main" }
+sd_embed = { git = "https://github.com/xhinker/sd_embed.git", rev = "main" }
